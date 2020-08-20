@@ -1,0 +1,4 @@
+C:\Users\FlavioHenrique\Documents\DevBoostDesafios\DevBoost.ORM\DevBoost.ORM.Console\bin\Debug\netcoreapp3.1\DevBoost.ORM.Console.exe
+C:\Users\FlavioHenrique\Documents\DevBoostDesafios\DevBoost.ORM\DevBoost.ORM.Console\obj\Debug\netcoreapp3.1\DevBoost.ORM.Console.csprojAssemblyReference.cache
+C:\Users\FlavioHenrique\Documents\DevBoostDesafios\DevBoost.ORM\DevBoost.ORM.Console\obj\Debug\netcoreapp3.1\DevBoost.ORM.Console.AssemblyInfoInputs.cache
+C:\Users\FlavioHenrique\Documents\DevBoostDesafios\DevBoost.ORM\DevBoost.ORM.Console\obj\Debug\netcoreapp3.1\DevBoost.ORM.Console.AssemblyInfo.cs

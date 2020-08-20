@@ -1,0 +1,35 @@
+﻿{
+   "ContextClassName": "DevboostContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "DoNotCombineNamespace": false,
+   "IdReplace": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "DevBoost.ORM.Console",
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Tb_Clube]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Tb_Jogador]"
+      },
+      {
+         "HasPrimaryKey": true,
+         "Name": "[dbo].[Tb_Posicao]"
+      }
+   ],
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseSpatial": false
+}
